@@ -5,4 +5,4 @@ def get_double(number: int):
 
 myRandomNumber = random.randint(1, 100)
 
-print(f'My random numbeiiiiiiir is {myRandomNumber} and its double is {get_double(myRandomNumber)}')
+print(f'My random numbeiir is {myRandomNumber} and its double is {get_double(myRandomNumber)}')
